@@ -1,0 +1,6 @@
+(a) Write a program to analyze a large set of text document. Compute the frequency and
+probability of alphabets (english). Compare with standard english alphabets.
+
+(b) Also make it accept argument 'n’ such that if n=2 means digram, n=3 means trigram, etc.
+and analyze according to that argument.
+
